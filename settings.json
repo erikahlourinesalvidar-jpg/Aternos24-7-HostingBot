@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "randomserver-kSCv.aternos.me:56813",
+    "ip": "randomserver-kSCv.aternos.me",
     "port": 56813,
     "version": "",
     "try-creative": false
